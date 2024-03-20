@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: disturbing-cod-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-hub/disturbing-cod-java-springboot
